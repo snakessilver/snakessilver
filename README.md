@@ -6,5 +6,4 @@
 - 🤔 I’m looking for help with SQL
 - 💬 Ask me about Python & ML
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: No matter how much I study, it's still not enough.
 -->
